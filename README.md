@@ -82,7 +82,7 @@ Sovereignty is achieved by keeping all critical intelligence components under lo
 
 ## ⚙️ Core Capabilities
 
-The current `v0.6.0` release provides the following functional components:
+The current `v0.6.1` release provides the following functional components:
 
 *   **Sovereign TUI:** Terminal-native interface for high-density telemetry and mission monitoring.
 *   **Autonomous Agent Runtime:** Foundation for agent-driven mission execution.
@@ -120,7 +120,7 @@ RED      →  PATCH      →  GREEN      →  E2E      →  REGRESSION      → 
 
 ## 🚦 Project Status
 
-**Version:** `v0.6.0`  
+**Version:** `v0.6.1`  
 **Status:** `Experimental / Active Development`
 
 *   Core Runtime: ✅ Validated
