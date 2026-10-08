@@ -2,7 +2,7 @@
 ## SOVEREIGN AGENT
 
 <p align="center">
-  <img src="docs/assets/anacleto-banner.svg" alt="ANACLETO BANNER">
+  <img src="docs/assets/anacleto-header.jpeg" alt="ANACLETO HEADER">
 </p>
 
 <p align="center">
